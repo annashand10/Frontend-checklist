@@ -1,7 +1,7 @@
 # Frontend-checklist
 Frontend developer knowledge checklist
-<img align="right" width="120" height="178"
-     title="Size Limit logo" src="./logo.svg">
+<img align="right" width="100%" height="100%"
+     title="Developer" src="./logo.png">
 
 ## General
 
