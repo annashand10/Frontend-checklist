@@ -23,7 +23,7 @@ Frontend developer lofty knowledge list filled with hot buzzwords and phrases th
 * Which problems developer can meet when developing for Mozilla/IE/Safari
 * Why different browsers have different related problems
 * Understanding the HTTP structure
-* What is DOM? and it’s kinds, how does browser render DOM 
+* What is DOM? baby don't hurt me and its types, how does browser render DOM 
 * Thoughts about JavaScript linters and “lint driven development”
 
 ## HTML
