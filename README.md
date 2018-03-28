@@ -5,6 +5,7 @@ Frontend developer lofty knowledge list filled with hot buzzwords and phrases th
 <img align="right" width="100%" height="100%"
      title="Developer" src="./logo.png">
 
+
 ## General
 
 * optimize the loading of external resources on the page (Web Performance)
