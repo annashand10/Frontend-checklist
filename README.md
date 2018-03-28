@@ -2,9 +2,10 @@
 
 Frontend developer lofty knowledge list filled with hot buzzwords and phrases that Google loves.
 
+<p align="center">
 <img align="right" width="100%" height="100%"
      title="Developer" src="./logo.png">
-
+</p>
 
 ## General
 
@@ -20,7 +21,8 @@ Frontend developer lofty knowledge list filled with hot buzzwords and phrases th
 * Usage of the basic data structures in your projects Which problems developer can meet when developing for Mozilla/IE/Safari
 * Why different browsers have different related problems
 * Understanding the HTTP structure
-* What is DOM? and it’s kinds, how does browser render DOM Thoughts about JavaScript linters and “lint driven development”
+* What is DOM? and it’s kinds, how does browser render DOM 
+* Thoughts about JavaScript linters and “lint driven development”
 
 ## HTML
 
