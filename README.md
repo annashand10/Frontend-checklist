@@ -1,5 +1,7 @@
 # Frontend-checklist
-Frontend developer knowledge checklist
+
+Frontend developer lofty knowledge list filled with hot buzzwords and phrases that Google loves.
+
 <img align="right" width="100%" height="100%"
      title="Developer" src="./logo.png">
 
